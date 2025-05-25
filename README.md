@@ -22,9 +22,12 @@ BDD & Frameworks: Cucumber, TestNG
 Outros: Git, GitHub, CI/CD
 
 📂 Projetos em Destaque
-
-Projeto	Descrição	Tecnologias
-
+| Projeto | Descrição | Tecnologias |
+|------|-----------|-------------|
+| [🔗https://github.com/Thiagmrs/e2e_appium_java-main](#) | Automação de testes de aplicativo mobile com Appium e Java. | Java, RestAssured, TestNG |
+| [🔗https://github.com/Thiagmrs/e2e_cucumber_java-master](#) | Automação de testes Web com Cucumber, Selenium e Java usando o padrão Page Object. | Java, Selenium, Cucumber |
+| [🔗https://github.com/Thiagmrs/load_tests-main](#) | Testes de carga e stress usando k6 para avaliação de desempenho de APIs. | JavaScript, k6 |
+| [🔗https://github.com/Thiagmrs/api_tests-main](#) | Automação de testes de API REST com validações completas usando Java e RestAssured. | Java, RestAssured, TestNG |
 
 🚀 Próximos Passos
 🔹 Ampliando conhecimentos em testes de segurança e acessibilidade
