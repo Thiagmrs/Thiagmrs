@@ -10,6 +10,7 @@ Performance: k6
 Build & Execução: Maven, Gradle
 BDD & Frameworks: Cucumber, TestNG
 Outros: Git, GitHub, CI/CD
+
 📂 Projetos em Destaque
 Projeto	Descrição	Tecnologias
 
